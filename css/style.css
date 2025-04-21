@@ -17,7 +17,7 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Maple Mono', monospace;
     line-height: 1.6;
     color: var(--foreground);
     background-color: var(--background);
