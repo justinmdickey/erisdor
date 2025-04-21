@@ -1,4 +1,4 @@
-# Erisdor.com Portfolio Site
+# Justin Portfolio Site
 
 A modern, responsive personal portfolio website for erisdor.com.
 
@@ -46,3 +46,4 @@ erisdor/
 ## License
 
 MIT License
+
